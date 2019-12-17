@@ -1,0 +1,1 @@
+web: cd portal-api && npm start
