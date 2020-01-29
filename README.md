@@ -3,6 +3,7 @@
 <br/>
 <br/>
 <strong>Portal</strong> is a website that compiles every piece of information about a course. From course descriptions to syllabi and professors to forum/reddit conversations about them. We utilize and gather information from go-to sites that students often refer to when they start their research, such as the <a href="https://fas.calendar.utoronto.ca/">course calendar</a>, <a href="https://www.reddit.com/r/uoft">Reddit</a>, and course websites, and syndicate this information in a way that is <strong>digestible</strong> and <strong>easy to access</strong>.
+  This was a passion project with <strong>@umar-ahmed, @vermaarn and @dennismarks</strong> for CSC309 at the University of Toronto.
 </p>
 
 - [DEPLOYED LINK](#deployed-link)
@@ -40,7 +41,7 @@ Build the application with a static frontend running ```npm run build``` in the 
 See our [Contributing Guide](docs/CONTRIBUTING.md) for more information on how to help as well as API routes and information.
 [EXPRESS ROUTES](https://github.com/csc309-fall-2019/team51/blob/master/docs/CONTRIBUTING.md#express-routes)
 
-## TA Instructions
+## Instructions
 
 Start by following the instructions in the [Getting Started](#getting-started) section above to install dependencies and run the application development server. When you load up the app in your browser, you should see the application Home screen. Right now, you are an **anonymous user** in our system.
 
@@ -130,43 +131,6 @@ Admin users also have access to an Admin page. You can access this page by cliki
 On the admin page, you can see how many courses and users there are in the app. You can also add new courses, review/remove users, and approve/reject course resource submissions:
 
 ![](docs/images/8_admin_page.png)
-
-## Login Credentials
-
-<details>
- <summary>Admin</summary>
- <p>
-
-```
-Username: admin
-Pass: admin
-```
-
-</details>
-
-<details>
- <summary>Student</summary>
- <p>
-  
-```
-Username: user
-Pass: user
-```
-
-  </p>
-</details>
-
-<details>
- <summary>Student 2</summary>
- <p>
-
-```
-Username: user2
-Pass: user2
-```
-
-  </p>
-</details>
 
 ## Motivation
 
