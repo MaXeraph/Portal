@@ -85,8 +85,8 @@ function Home() {
             <CourseSearchChip value={`Department:Computer Science`}>
               Computer Science
             </CourseSearchChip>
-            <CourseSearchChip value={`Department:Statistical Science`}>
-              Statistical Science
+            <CourseSearchChip value={`Department:Statistical Sciences`}>
+              Statistical Sciences
             </CourseSearchChip>
             <CourseSearchChip value={`Department:Classics`}>
               Classics
